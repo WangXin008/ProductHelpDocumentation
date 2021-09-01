@@ -6,7 +6,7 @@
 
 1. 在 B 站中，打开需要插入的视频，复制视频下方的“转发 > 嵌入代码”。
 
-    ![20210901150739](https://raw.githubusercontent.com/WangXin008/ProductHelpDocumentation/main/20210901150739.png)
+    ![20210901150739](https://raw.githubusercontent.com/WangXin008/ProductHelpDocumentation/main/images/20210901150739.png)
 
 2. 在 markdown 中粘贴对应的代码，效果如下图所示。
 
@@ -15,7 +15,7 @@
 
     ```
 
-    ![20210901152028](https://raw.githubusercontent.com/WangXin008/ProductHelpDocumentation/main/20210901152028.png)
+    ![20210901152028](https://raw.githubusercontent.com/WangXin008/ProductHelpDocumentation/main/images/20210901152028.png)
 
 ## 插入云上对象存储中的视频
 
