@@ -21,3 +21,5 @@
 3. Github Desktop 工具与 Visual Studio Code 工具关联：
 
     ![工具间关联](images/githubconnectvscode.png)
+
+    

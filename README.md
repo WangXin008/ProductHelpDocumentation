@@ -7,3 +7,4 @@
 - [文档质量](/DocQuality.md)
 - [技术传播](/TechnicalCommunication.md)
 - [Github + Markdown 写作环境](/GitHubDesktopAndVSCode.md)
+- [在 Markdown 中插入视频](/VideoinMD.md)
