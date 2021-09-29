@@ -15,3 +15,4 @@
 - [在 Markdown 中插入视频](/VideoinMD.md)
 - [单个 Markdown 导出为 PDF](/Markdown2Pdf.md)
 - [多个 Markdown 导出为 PDF](/MultipleMarkdown2Pdf.md)
+- [统计多个 Markdown 文件的总字数](/CountWord.md)
