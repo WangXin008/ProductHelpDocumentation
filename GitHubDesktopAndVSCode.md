@@ -1,5 +1,14 @@
 # Github + Markdown 写作环境
 
+<!-- TOC -->
+
+- [Github + Markdown 写作环境](#github--markdown-写作环境)
+  - [概述](#概述)
+  - [Github Desktop](#github-desktop)
+  - [Visual Studio Code](#visual-studio-code)
+  - [基于 VSCode 搭建 Markdown 写作环境](#基于-vscode-搭建-markdown-写作环境)
+
+<!-- /TOC -->
 ## 概述
 
 本文主要介绍通过使用 GitHub Desktop 和 Visual Studio Code 工具，搭建编写 markdown 格式的文档的写作环境。
@@ -21,5 +30,4 @@
 3. Github Desktop 工具与 Visual Studio Code 工具关联：
 
     ![工具间关联](images/githubconnectvscode.png)
-
-    
+  
