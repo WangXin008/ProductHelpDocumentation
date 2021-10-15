@@ -17,3 +17,4 @@
 - [多个 Markdown 导出为 PDF](/MultipleMarkdown2Pdf.md)
 - [统计多个 Markdown 文件的总字数](/CountWord.md)
 - [产品全生命周期中的技术文档](/ProductDocLifeCycle.md)
+- [技术文档 | 在 Markdown 中插入图片](/imagesmanage.md)
