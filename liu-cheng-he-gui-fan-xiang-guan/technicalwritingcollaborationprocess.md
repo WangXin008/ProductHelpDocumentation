@@ -2,12 +2,12 @@
 
 如下为用 **开发需求** 的方式写文档时与其它角色协作的流程(仅供参考，每个公司流程可能会不一样)：
 
-- **PM**: Product Manager, 产品经理。
-- **TW**: Technical Writer, 技术写作者。
-- **DEV**: Developer, 开发者。
-- **QA**: Quality Assurance, 测试工程师。
+* **PM**: Product Manager, 产品经理。
+* **TW**: Technical Writer, 技术写作者。
+* **DEV**: Developer, 开发者。
+* **QA**: Quality Assurance, 测试工程师。
 
-![技术写作流程](./images/documentprocess.png)
+![技术写作流程](../images/documentprocess.png)
 
 > **说明：**
 >

@@ -1,21 +1,18 @@
 # Github + Markdown 写作环境
 
-<!-- TOC -->
+* [Github + Markdown 写作环境](githubdesktopandvscode.md#github--markdown-写作环境)
+  * [概述](githubdesktopandvscode.md#概述)
+  * [Github Desktop](githubdesktopandvscode.md#github-desktop)
+  * [Visual Studio Code](githubdesktopandvscode.md#visual-studio-code)
+  * [基于 VSCode 搭建 Markdown 写作环境](githubdesktopandvscode.md#基于-vscode-搭建-markdown-写作环境)
 
-- [Github + Markdown 写作环境](#github--markdown-写作环境)
-  - [概述](#概述)
-  - [Github Desktop](#github-desktop)
-  - [Visual Studio Code](#visual-studio-code)
-  - [基于 VSCode 搭建 Markdown 写作环境](#基于-vscode-搭建-markdown-写作环境)
-
-<!-- /TOC -->
 ## 概述
 
 本文主要介绍通过使用 GitHub Desktop 和 Visual Studio Code 工具，搭建编写 markdown 格式的文档的写作环境。
 
 ## Github Desktop
 
-[Github  Desktop](https://desktop.github.com/) 是用 Git 做版本控制的代码托管平台，它提供了 web 界面，你可以在上面创建资源仓库来存放你的项目。
+[Github Desktop](https://desktop.github.com) 是用 Git 做版本控制的代码托管平台，它提供了 web 界面，你可以在上面创建资源仓库来存放你的项目。
 
 ## Visual Studio Code
 
@@ -24,10 +21,7 @@
 ## 基于 VSCode 搭建 Markdown 写作环境
 
 1. 安装好 Github Desktop 后，具体的使用，可参考 [GitHub Desktop 图文教程](https://www.jianshu.com/p/a6fc842f501d)。
-
 2. 安装好 Visual Studio Code 后，具体的使用，可参考 [使用 VSCode 编写 Markdown](https://zhuanlan.zhihu.com/p/56943330)。
+3.  Github Desktop 工具与 Visual Studio Code 工具关联：
 
-3. Github Desktop 工具与 Visual Studio Code 工具关联：
-
-    ![工具间关联](images/githubconnectvscode.png)
-  
+    ![工具间关联](../images/githubconnectvscode.png)
