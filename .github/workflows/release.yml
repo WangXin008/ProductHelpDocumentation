@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  update_release:
+  update_release_draft:
     runs-on: ubuntu-latest
     steps:
       - uses: WangXin008/ProductHelpDocumentation@main
